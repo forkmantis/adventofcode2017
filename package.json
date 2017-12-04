@@ -1,0 +1,27 @@
+{
+  "name": "adventofcode2017",
+  "version": "1.0.0",
+  "description": "Solutions to http://adventofcode.com/",
+  "main": "index.js",
+  "dependencies": {
+    "copy-paste": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forkmantis/adventofcode2017.git"
+  },
+  "keywords": [
+    "adventofcode",
+    "nodejs"
+  ],
+  "author": "Will Killian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forkmantis/adventofcode2017/issues"
+  },
+  "homepage": "https://github.com/forkmantis/adventofcode2017#readme"
+}
